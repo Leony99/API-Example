@@ -1,6 +1,6 @@
 #  Developer Guide: API Example
 
-In this documentation, we will explore a web application developed with Next.js, a powerful React framework, combined with Mongoose for database management. The purpose of this project is to learn and practice modern web development techniques, especifically focusing on building an API and their endpoints.
+In this documentation, we will explore a web application developed with Next.js, a powerful React framework, combined with Tailwind CSS for styling and Mongoose for database management. The purpose of this project is to learn and practice modern web development techniques, especifically focusing on building an API and their endpoints.
 
 ## Table of Contents
 
@@ -11,6 +11,7 @@ In this documentation, we will explore a web application developed with Next.js,
 ## Technologies Used
 
 - **[Next.js](https://nextjs.org/):** A React framework for building fast, server-side rendered web applications.
+- **[Tailwind CSS](https://tailwindcss.com/):** A utility-first CSS framework for designing responsive and modern interfaces.
 - **[Mongoose](https://mongoosejs.com/)**: An Object Data Modeling (ODM) library for MongoDB and Node.js, providing a schema-based solution to model application data and interact with the database.
 
 ## Setup as development
